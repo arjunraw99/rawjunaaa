@@ -1,1 +1,1 @@
-# rawjunaaa
+# CUSTOMER SEGMENTATION PROJECT
