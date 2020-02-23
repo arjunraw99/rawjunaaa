@@ -1,3 +1,4 @@
+#customer segmentation project
 customer_data=read.csv("D:/Mall_Customers.csv")
 str(customer_data)
 names(customer_data)
